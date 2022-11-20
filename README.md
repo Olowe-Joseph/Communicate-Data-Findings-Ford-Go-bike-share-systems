@@ -18,6 +18,6 @@ The data features include duration (secs) and others such as DateTime, customer 
   I found that the users used the bike for a wider range of trip duration, also, after cleaning the trip duration data and removing the outliers, 
   I found that the major trips had a trip duration on average of 7-12 mins. 
   I also found out that the work days were the most days that the users use the bike share system the most, especially on Thursdays. 
-  Also, the time most users ride the bike were around 8 A.M and 5 P.M and this looks more like the starting and closing time for companies. 
+  Also, the time most users ride the bike were around 8 A.M and 5 P.M and this looks more like the starting and closing time for work. 
   As for the users,  the male users are almost 3 times the female users, and the most age range is between 25-35 and
   the subscriber users are almost 9-10 times the customer users.
